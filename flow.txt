@@ -1,0 +1,6 @@
+postModel => mongoose.Schema
+postRoute => express.Route
+    module.exports
+    add to server.js
+    add POST Routes - with requireSignIn middleware
+    create postController function file
